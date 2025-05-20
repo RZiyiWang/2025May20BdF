@@ -1,1 +1,1 @@
-# Hierarchical Adversarial Reinforcement Learning for Multi-Agent Market Simulation:Modeling Strategic Interaction and Emergent Behavior in Synthetic Financial Environments
+#Hierarchical ARL-based Multi-Agent Market Modeling: Self-Optimizing vs. Opponent-Suppressing Market Makers
